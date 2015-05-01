@@ -1,0 +1,10 @@
+{
+    "AppSettings": {
+        "SiteTitle": "YoJM"
+    },
+    "Data": {
+        "DefaultConnection": {
+            "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-YoJM-0fca879e-bf94-4192-9d6a-3ef2dff4837f;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
